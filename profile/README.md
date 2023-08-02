@@ -6,7 +6,6 @@
 [식스센스 front end repository](https://github.com/sixes-sense/front-end.git)
 
 
-# .github
 
 ## 팀원 소개
 <table>
