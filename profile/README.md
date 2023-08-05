@@ -19,8 +19,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/numerical43"><b>김나영</b></td>
-    <td align="center"><a href="https://github.com/juunewon"><b>김진우</b></td>
+    <td align="center"><a href="https://github.com/kny3037"><b>김나영</b></td>
+    <td align="center"><a href="https://github.com/jinvvoo"><b>김진우</b></td>
     <td align="center"><a href="https://github.com/bbbbooo"><b>이현석</b></td>
     <td align="center"><a href="https://github.com/ChoMyeongHwan"><b>조명환</b></td>
     <td align="center"><a href="https://github.com/myrhymetree"><b>박성준</b></td>
