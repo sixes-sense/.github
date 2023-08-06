@@ -5,10 +5,17 @@
 ## Front-end Repository
 [식스센스 front end repository](https://github.com/sixes-sense/front-end.git)
 
+<br>
 
+## 1. 프로젝트 소개
 
+**코드 리뷰 플랫폼**
 
-## 팀원 소개
+현업 개발자가 아닌 개발 지망생을 타겟층으로 선정하였으며, Okky의 고인물 문화 개선과 스택 오버플로우의 장점을 모티브로 하여 한국의 개발 지망생들이 조금 더 편하게 접근할 수 있는 플랫폼입니다.
+
+<br>
+
+## 2. 팀원 소개
 <table>
   <tr>
     <td align="center"><a href="https://github.com/kny3037"><img src="https://avatars.githubusercontent.com/kny3037" width="150px;" alt="">
@@ -38,6 +45,7 @@
   </tr>
 </table>
 
+<br>
 
 # 프로젝트 규칙
 
@@ -47,6 +55,8 @@
 - pr 전에 이슈 발행 필수, pr 할 때 이슈 번호 입력 필수!
 - 이슈 하나는 본인이 하루 내에 해결할 수 있는 양으로 선정하기
 - pr에 모든 사람이 코드 리뷰 남기기 (LGTM 금지🙅)
+  
+<br>
 
 # Git Convention
 
