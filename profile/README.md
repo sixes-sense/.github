@@ -5,7 +5,7 @@
 ## Front-end Repository
 [식스센스 front end repository](https://github.com/sixes-sense/front-end.git)
 
-## 우리의 작업이 궁금하다면?
+## Sixth-Sense는 어떻게 작업했을까?
 [식스센스 위키](https://github.com/sixes-sense/.github/wiki)
 
 <br>
