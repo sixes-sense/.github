@@ -5,6 +5,9 @@
 ## Front-end Repository
 [식스센스 front end repository](https://github.com/sixes-sense/front-end.git)
 
+## Admin(Front,Backend) Repository
+[식스센스 Admin repository](https://github.com/sixes-sense/admin.git)
+
 ## Sixth-Sense는 어떻게 작업했을까?
 [식스센스 위키](https://github.com/sixes-sense/.github/wiki)
 
